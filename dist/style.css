@@ -8,6 +8,7 @@ header {
 }
 
 .bio-container {
+  margin: 0 10%;
   height: 20em;
   display: flex;
   align-items: center;
@@ -22,4 +23,8 @@ header {
 }
 
 .bio-blurb {
+}
+
+h2 {
+  text-align: center;
 }
