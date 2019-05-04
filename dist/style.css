@@ -28,3 +28,22 @@ header {
 h2 {
   text-align: center;
 }
+
+.project-container {
+  height: 20em;
+  display: flex;
+  align-items: center;
+}
+
+.project-blurb {
+  margin: 0 2em;
+}
+
+.project-links {
+  margin: 0 2em;
+}
+
+.project-screenshot {
+  max-width: 30em;
+  height: auto;
+}
