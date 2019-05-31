@@ -6,7 +6,7 @@ import NoteProject from "./noteProject"
 class Projects extends Component {
   render() {
     return (
-      <div className='recent-projects-container'>
+      <div className="recent-projects-container">
         <h2> Recent Projects </h2>
         <BakeryProject />
         <NoteProject />
